@@ -6,3 +6,6 @@ modif du fichier sur le poste de travail
 
 
 modifi sur le serveur
+
+
+ceci est un test en local
