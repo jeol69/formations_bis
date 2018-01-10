@@ -1,18 +1,3 @@
 Fichier créer sur github.com
 
-ceci est un test
-
-
-
-
-je modifi le fichier sur la branche
-
-le 10/01 à 15h07
-
-modif du fichier sur le poste de travail
-
-
-modifi sur le serveur
-
-
-ceci est un test en local
+serveur 15h28
